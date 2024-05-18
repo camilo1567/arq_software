@@ -1,4 +1,4 @@
-CREATE USER 'auth_user'@'localhost' IDENTIFIED BY 'Aauth123';
+CREATE USER 'auth_user'@'localhost' IDENTIFIED BY 'Hagui19901.';
 
 CREATE DATABASE auth;
 
